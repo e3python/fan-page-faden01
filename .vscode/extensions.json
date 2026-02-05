@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer",
+    "eamodio.gitlens",
+    "msjsdiag.debugger-for-chrome",
+    "ecmel.vscode-html-css"
+  ],
+  "unwantedRecommendations": []
+}
